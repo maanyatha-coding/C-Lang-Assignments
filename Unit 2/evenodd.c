@@ -5,7 +5,7 @@ int main() {
 
     int num;
 
-    printf("Enter a number: ");
+    printf("Enter a number: "); // Prompt the user to enter a number
     scanf("%d", &num);
 
     if (num % 2 == 0) {
